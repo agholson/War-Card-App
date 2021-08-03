@@ -1,4 +1,4 @@
-# War Sample app 
+# *War!* Sample app 
 Want to always play *War!*, but do not have a friend to play it with? No worries! Now you can with this exciting app. Play against the computer any time you like with this iOS app, which runs on any Apple device. 
 
 ![War app](war_app.png)
